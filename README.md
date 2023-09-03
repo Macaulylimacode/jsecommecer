@@ -37,9 +37,9 @@ de ações/ actions para ter acesso ao prejeto.
 # Preview do projeto:
 ### Project preview:
 
-![Captura de te![Captura de tela 2023-09-02 215311](https://github.com/Macaulylimacode/jsecommecer/assets/139823222/1d541f98-d822-401a-b9c8-6fd727110c73)
+![Captura de tela 2023-09-02 215311](https://github.com/Macaulylimacode/jsecommecer/assets/139823222/1d541f98-d822-401a-b9c8-6fd727110c73)
 
-la 2023-09-02 215250](https://github.com/Macaulylimacode/jsecommecer/assets/139823222/848b128a-3571-40ec-b9e7-12cfe55b940a)
+![Captura de tela 2023-09-02 215250](https://github.com/Macaulylimacode/jsecommecer/assets/139823222/848b128a-3571-40ec-b9e7-12cfe55b940a)
 
 ![Captura de tela 2023-09-02 215329](https://github.com/Macaulylimacode/jsecommecer/assets/139823222/5ef7b663-f350-40ba-8b3f-f75f5c2c2279)
 
