@@ -1,4 +1,4 @@
-# E-COMMErCER
+# E-COMMERCER
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/jsecommecer/blob/master/LICENSE) 
 
