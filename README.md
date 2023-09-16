@@ -2,6 +2,10 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/jsecommecer/blob/master/LICENSE) 
 
+# Click para visulização na web:
+### Click to view on the web:
+
+[![NPM](https://img.shields.io/badge/ECOMMERCER-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://macaulylimacode.github.io/jsecommecer/)
 
 ![Captura de tela 2023-09-02 215404](https://github.com/Macaulylimacode/jsecommecer/assets/139823222/c3481c64-8533-4830-b052-737819ab704b)
 
